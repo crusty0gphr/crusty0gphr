@@ -1,9 +1,8 @@
-<h1 align="left">Hi 👋, I'm Harutyun (the crusty gopher)</h1>
-<h3 align="left">As a seasoned backend software engineer, I specialize in PHP and Go development, with a rich background spanning over 5 years. My expertise extends across SAAS, social networking, investment, fintech, adtech projects, where I've adeptly crafted both monolithic and microservice architectures. Throughout the software development lifecycle, I am deeply involved in every stage, from initial planning to seamless deployment. My skill set includes robust problem analysis, bug resolution, and effective communication with third-party service providers. I find fulfillment in sharing my knowledge and expertise with colleagues, fostering a collaborative environment.</h3>
+### Hi 👋, I'm Harutyun (the crusty gopher)
+___
+Hey there! I'm a backend software engineer with over 5 years of experience, focusing on PHP and Go development. I've worked on various projects like SAAS, social networking, fintech, and more, building both big and small systems. From planning to deployment, I'm hands-on throughout the software development process. I'm good at solving problems, fixing bugs, and communicating with others. I love sharing what I know and working together with my team to create awesome stuff.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crusty0gphr&label=Profile%20views&color=0e75b6&style=flat" alt="crusty0gphr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crusty0gphr" alt="crusty0gphr" /></a> </p>
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
