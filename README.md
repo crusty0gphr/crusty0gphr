@@ -27,5 +27,3 @@ Hey there! I'm a backend software engineer with over 5 years of experience, focu
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crusty0gphr&show_icons=true&locale=en&layout=compact" alt="crusty0gphr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crusty0gphr&show_icons=true&locale=en" alt="crusty0gphr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crusty0gphr&" alt="crusty0gphr" /></p>
