@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crusty0gphr&label=Profile%20views&color=0e75b6&style=flat" alt="crusty0gphr" /> </p>
 
-- 📝 I regularly write articles on [dev.to](dev.to)
+- 📝 I regularly write articles on [dev.to](https://dev.to)
 - 💬 Ask me about **rust, golang, software optimization, architecture**
 - 📫 How to reach me **har.mar1994@gmail.com | harutyun.mardirossian@gmail.com**
 
