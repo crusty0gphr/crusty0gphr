@@ -1,5 +1,9 @@
-# 💫 About Me:
-👨🏻‍💻 Hi, I’m Harutyun, a software engineer with 7 years of experience in backend development. <br><br>🔨 I have worked across various domains, including FinTech, AdTech, eCommerce, SaaS, and Crypto. My expertise includes refactoring legacy codebases and implementing robust testing strategies. As a curious and innovative professional, I’m always eager to explore new technologies. <br> <br>💪🏻 My passion for learning and sharing knowledge drives me to seek out technical and architectural solutions that can enhance project reliability and performance.
+# 💫 My jurney:
+👨🏻‍💻 Hi, I’m Harutyun, accomplished Software Engineer with 9+ years of progressive experience developing scalable backend systems and cloud infrastructure solutions. Expert in Go and modern cloud technologies (AWS, GCP, Kubernetes) with a proven track record of delivering high-impact projects in FinTech, Ad Tech, and Open Source Compliance domains.
+
+Specialized in microservices architecture, data pipeline optimization, and performance-driven development. Recent expertise includes leading AWS Lambda migrations (achieving 167% performance improvements), implementing payment processing systems with compliance certifications, and contributing to container orchestration and CI/CD automation. Skilled in collaborating across distributed teams to solve complex technical challenges, from infrastructure design to legacy system refactoring.
+
+Demonstrates strong initiative in adopting emerging tools and methodologies (AI-assisted development, property-based testing) while maintaining code quality and system reliability. Passionate about building robust, maintainable solutions that drive business value.
 
 
 ## 🌐 Socials:
