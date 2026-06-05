@@ -1,150 +1,56 @@
-# 👋 Hi, I'm Harutyun Mardirossian
+# Hi, I'm Harutyun
 
-**Senior Software Engineer | Cloud & Backend Specialist | Open Source Advocate**
+**Senior Software Engineer | Cloud & Backend Specialist**
 
-[LinkedIn](https://linkedin.com/in/crusty0gphr)  
-[Medium](https://medium.com/@crusty0gphr)  
-[Dev.to](https://dev.to/crusty0gphr)  
-[GitHub](https://github.com/crusty0gphr)  
-[Email](mailto:harutyun.mardirossian@gmail.com)
-
----
-
-## 💼 About Me
-
-I’m a **Senior Software Engineer** with **9+ years of experience** specializing in **scalable backend systems, cloud infrastructure, and performance optimization**. My expertise spans **Go, Rust, Python, and cloud technologies (AWS, GCP, Kubernetes)**, with a focus on **microservices architecture, data pipelines, and AI-assisted development**.
-
-I thrive on solving complex technical challenges—from **migrating AWS Lambda functions (167% performance boost)** to **building PCI DSS-compliant payment systems** and **optimizing container orchestration**. Passionate about **open-source compliance, automation, and emerging AI tools** to drive efficiency and innovation.
-
-Currently at **EPAM Systems**, I lead the development of **Open Source Compliance services**, ensuring code scanning, SBOM, vulnerability detection, and licensing compliance.
+| Platform | Link |
+|----------|------|
+| **LinkedIn** | [crusty0gphr](https://linkedin.com/in/crusty0gphr) |
+| **Dev.to** | [crusty0gphr](https://dev.to/crusty0gphr) |
 
 ---
 
-## 🚀 **What I Bring to the Table**
+## About Me
 
-- **Performance Optimization**: Reduced AWS Lambda cold starts from **1100ms to 100ms** and memory usage from **1024MB to 35MB**.
-- **Cloud Migration**: Led the migration of **5+ Lambda functions from Python to Go**, cutting costs and improving maintainability.
-- **Payment Systems**: Integrated **6+ payment providers** (Stellar SEP-06, SEP-12, SEP-31) and maintained **PCI DSS-certified cart processing**.
-- **Open Source Compliance**: Built and maintained **SBOM scanning, vulnerability detection, and licensing violation tools**.
-- **AI-Assisted Development**: Pioneered **Cursor AI prompts** for automated refactoring and modularization.
+Senior Software Engineer with **9+ years** in **scalable backend systems, cloud infrastructure, and performance optimization**. Expert in **Go, Rust, AWS, GCP, and Kubernetes**, specializing in **microservices, data pipelines, and AI-assisted development**. Currently at **SAP SE**, leading **Open Source Compliance services**.
 
 ---
 
-## 🛠 **Tech Stack**
+## Tech Stack
 
-### **Languages**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Go  
-Rust  
-Python  
-PHP  
-TypeScript  
-Bash
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### **Cloud & DevOps**
-
-AWS  
-Google Cloud  
-Docker  
-Kubernetes  
-Tekton
-
-### **Databases**
-
-PostgreSQL  
-MySQL  
-MongoDB  
-Redis
-
-### **Messaging & Streaming**
-
-Kafka  
-NATS
-
-### **Other Tools**
-
-Git  
-Prometheus  
-Zapier
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
-## 📈 **GitHub Stats**
-
-&nbsp;
-
-[GitHub Streak](https://git.io/streak-stats)
-
-[Top Langs](https://github.com/anuraghazra/github-readme-stats)
-
-[GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-
-&nbsp;
-
----
-
-## 🏆 **Certifications & Achievements**
+## Achievements
 
 - **Docker Foundations Professional Certificate**
 - **Claude Code in Action**
-- **167% Performance Improvement** in AWS Lambda migration (Python → Go)
-- **PCI DSS-Compliant Payment Integrations** (Stellar SEP-06, SEP-12, SEP-31)
+- **167% Performance Improvement** in AWS Lambda migration
+- **PCI DSS-Compliant Payment Integrations**
 
 ---
 
-## 📝 **Latest Blog Posts**
+## Featured Projects
 
-&nbsp;
-
-&nbsp;
-
----
-
-## 🔧 **Featured Projects**
-
-### **[Open Source Compliance Services](https://github.com/crusty0gphr)**
-
-> **EPAM Systems** | *Go, Kubernetes, Tekton*
->
-> - Developed **code scanning, SBOM generation, and vulnerability detection** services.
-> - Optimized **Tekton-based pipeline runners** and custom K8s resources.
-
-### **[AWS Lambda Migration (Python → Go)](https://github.com/crusty0gphr)**
-
-> **EPAM Systems** | *Go, AWS Lambda, Cursor AI*
->
-> - **167% performance boost**, **90%+ memory reduction**, and **10x faster cold starts**.
-> - Automated refactoring using **AI-assisted prompts** for consistency.
-
-### **[Payment Processing System](https://github.com/crusty0gphr)**
-
-> **ArmenoTech / Tempo France** | *Go, Stellar, PCI DSS*
->
-> - Integrated **6+ payment providers** with **SEP-06, SEP-12, SEP-31** protocols.
-> - Maintained **PCI DSS-certified cart processing** and **user validation features**.
-
-### **[BackupGuard WordPress Plugin](https://github.com/crusty0gphr)**
-
-> **Sygnoos** | *PHP, WordPress, Cybersecurity*
->
-> - Developed **file scanner, traffic monitoring, and backup features** for WordPress.
-
----
-
-## 🤝 **Let’s Connect!**
-
-I’m always open to **collaborations, discussions on cloud architecture, Go/Rust development, or open-source contributions**. Feel free to reach out!
-
-[LinkedIn](https://linkedin.com/in/crusty0gphr)  
-[Email](mailto:harutyun.mardirossian@gmail.com)
-
----
-
-📄 **Full Resume**
-
-- **[Download PDF](https://mistralaichatupprodswe.blob.core.windows.net/chat-documents/86/bd/bb/86bdbb06-f746-40be-94b2-2b27da3aa2c4/ba419927-b0ca-4175-8b60-bcfbfb846a74/7cfcb7c2-d2e9-460c-9be3-66747bd39202?sv=2025-01-05&spr=https&se=2026-06-05T11%3A53%3A48Z&skoid=c9baccad-3639-4379-a088-07b7e349293c&sktid=4fbc1168-2984-4d17-af19-ac5138c2378e&skt=2026-06-05T10%3A53%3A48Z&ske=2026-06-05T11%3A53%3A48Z&sks=b&skv=2025-01-05&sr=b&sp=r&sig=I7sv9dyvfzFCsGyrTb5Jn0X%2BNJKmnMUMYk9AGITwpBo%3D)**
-
-&nbsp;
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Open Source Compliance Services](https://github.com/crusty0gphr)** | Code scanning, SBOM generation, vulnerability detection | Go, Kubernetes, Tekton |
+| **[AWS Lambda Migration](https://github.com/crusty0gphr)** | Python → Go migration, 167% performance boost | Go, AWS Lambda |
+| **[Payment Processing System](https://github.com/crusty0gphr)** | PCI DSS-certified payment integrations | Go, Stellar, PostgreSQL |
 
 ---
 
