@@ -1,15 +1,151 @@
-# 💫 My jurney:
-👨🏻‍💻 Hi, I’m Harutyun, accomplished Software Engineer with 9+ years of progressive experience developing scalable backend systems and cloud infrastructure solutions. Expert in Go and modern cloud technologies (AWS, GCP, Kubernetes) with a proven track record of delivering high-impact projects in FinTech, Ad Tech, and Open Source Compliance domains.
+# 👋 Hi, I'm Harutyun Mardirossian
 
-Specialized in microservices architecture, data pipeline optimization, and performance-driven development. Recent expertise includes leading AWS Lambda migrations (achieving 167% performance improvements), implementing payment processing systems with compliance certifications, and contributing to container orchestration and CI/CD automation. Skilled in collaborating across distributed teams to solve complex technical challenges, from infrastructure design to legacy system refactoring.
+**Senior Software Engineer | Cloud & Backend Specialist | Open Source Advocate**
 
-Demonstrates strong initiative in adopting emerging tools and methodologies (AI-assisted development, property-based testing) while maintaining code quality and system reliability. Passionate about building robust, maintainable solutions that drive business value.
+[LinkedIn](https://linkedin.com/in/crusty0gphr)  
+[Medium](https://medium.com/@crusty0gphr)  
+[Dev.to](https://dev.to/crusty0gphr)  
+[GitHub](https://github.com/crusty0gphr)  
+[Email](mailto:harutyun.mardirossian@gmail.com)
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/crusty0gphr) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@crusty0gphr) 
+## 💼 About Me
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crusty0gphr&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I’m a **Senior Software Engineer** with **9+ years of experience** specializing in **scalable backend systems, cloud infrastructure, and performance optimization**. My expertise spans **Go, Rust, Python, and cloud technologies (AWS, GCP, Kubernetes)**, with a focus on **microservices architecture, data pipelines, and AI-assisted development**.
+
+I thrive on solving complex technical challenges—from **migrating AWS Lambda functions (167% performance boost)** to **building PCI DSS-compliant payment systems** and **optimizing container orchestration**. Passionate about **open-source compliance, automation, and emerging AI tools** to drive efficiency and innovation.
+
+Currently at **EPAM Systems**, I lead the development of **Open Source Compliance services**, ensuring code scanning, SBOM, vulnerability detection, and licensing compliance.
+
+---
+
+## 🚀 **What I Bring to the Table**
+
+- **Performance Optimization**: Reduced AWS Lambda cold starts from **1100ms to 100ms** and memory usage from **1024MB to 35MB**.
+- **Cloud Migration**: Led the migration of **5+ Lambda functions from Python to Go**, cutting costs and improving maintainability.
+- **Payment Systems**: Integrated **6+ payment providers** (Stellar SEP-06, SEP-12, SEP-31) and maintained **PCI DSS-certified cart processing**.
+- **Open Source Compliance**: Built and maintained **SBOM scanning, vulnerability detection, and licensing violation tools**.
+- **AI-Assisted Development**: Pioneered **Cursor AI prompts** for automated refactoring and modularization.
+
+---
+
+## 🛠 **Tech Stack**
+
+### **Languages**
+
+Go  
+Rust  
+Python  
+PHP  
+TypeScript  
+Bash
+
+### **Cloud & DevOps**
+
+AWS  
+Google Cloud  
+Docker  
+Kubernetes  
+Tekton
+
+### **Databases**
+
+PostgreSQL  
+MySQL  
+MongoDB  
+Redis
+
+### **Messaging & Streaming**
+
+Kafka  
+NATS
+
+### **Other Tools**
+
+Git  
+Prometheus  
+Zapier
+
+---
+
+## 📈 **GitHub Stats**
+
+&nbsp;
+
+[GitHub Streak](https://git.io/streak-stats)
+
+[Top Langs](https://github.com/anuraghazra/github-readme-stats)
+
+[GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+
+&nbsp;
+
+---
+
+## 🏆 **Certifications & Achievements**
+
+- **Docker Foundations Professional Certificate**
+- **Claude Code in Action**
+- **167% Performance Improvement** in AWS Lambda migration (Python → Go)
+- **PCI DSS-Compliant Payment Integrations** (Stellar SEP-06, SEP-12, SEP-31)
+
+---
+
+## 📝 **Latest Blog Posts**
+
+&nbsp;
+
+&nbsp;
+
+---
+
+## 🔧 **Featured Projects**
+
+### **[Open Source Compliance Services](https://github.com/crusty0gphr)**
+
+> **EPAM Systems** | *Go, Kubernetes, Tekton*
+>
+> - Developed **code scanning, SBOM generation, and vulnerability detection** services.
+> - Optimized **Tekton-based pipeline runners** and custom K8s resources.
+
+### **[AWS Lambda Migration (Python → Go)](https://github.com/crusty0gphr)**
+
+> **EPAM Systems** | *Go, AWS Lambda, Cursor AI*
+>
+> - **167% performance boost**, **90%+ memory reduction**, and **10x faster cold starts**.
+> - Automated refactoring using **AI-assisted prompts** for consistency.
+
+### **[Payment Processing System](https://github.com/crusty0gphr)**
+
+> **ArmenoTech / Tempo France** | *Go, Stellar, PCI DSS*
+>
+> - Integrated **6+ payment providers** with **SEP-06, SEP-12, SEP-31** protocols.
+> - Maintained **PCI DSS-certified cart processing** and **user validation features**.
+
+### **[BackupGuard WordPress Plugin](https://github.com/crusty0gphr)**
+
+> **Sygnoos** | *PHP, WordPress, Cybersecurity*
+>
+> - Developed **file scanner, traffic monitoring, and backup features** for WordPress.
+
+---
+
+## 🤝 **Let’s Connect!**
+
+I’m always open to **collaborations, discussions on cloud architecture, Go/Rust development, or open-source contributions**. Feel free to reach out!
+
+[LinkedIn](https://linkedin.com/in/crusty0gphr)  
+[Email](mailto:harutyun.mardirossian@gmail.com)
+
+---
+
+📄 **Full Resume**
+
+- **[Download PDF](https://mistralaichatupprodswe.blob.core.windows.net/chat-documents/86/bd/bb/86bdbb06-f746-40be-94b2-2b27da3aa2c4/ba419927-b0ca-4175-8b60-bcfbfb846a74/7cfcb7c2-d2e9-460c-9be3-66747bd39202?sv=2025-01-05&spr=https&se=2026-06-05T11%3A53%3A48Z&skoid=c9baccad-3639-4379-a088-07b7e349293c&sktid=4fbc1168-2984-4d17-af19-ac5138c2378e&skt=2026-06-05T10%3A53%3A48Z&ske=2026-06-05T11%3A53%3A48Z&sks=b&skv=2025-01-05&sr=b&sp=r&sig=I7sv9dyvfzFCsGyrTb5Jn0X%2BNJKmnMUMYk9AGITwpBo%3D)**
+
+&nbsp;
+
+---
+
+*✨ Last updated: June 2026*
